@@ -15,11 +15,9 @@ A Python-based project for cleaning and standardizing customer data in a SQL Ser
 
 ## Folder Structure
 
-- `clean_fullname.py`: Main script for cleaning names and updating the database
+- `CleanFullName.ipynb`: Main script for cleaning names and updating the database
 - `unique_customer_id.py`: (Coming soon) Script for generating unique customer IDs
 - `sql/create_table.sql`: SQL commands to create the base `CustomerInfo` table
-- `sql/sample_data.sql`: Example records for testing
-- `requirements.txt`: Python packages required to run the scripts
 
 ## How to Use
 
